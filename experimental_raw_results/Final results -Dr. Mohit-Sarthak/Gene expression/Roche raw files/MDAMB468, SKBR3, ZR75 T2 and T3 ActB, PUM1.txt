@@ -1,0 +1,98 @@
+Experiment: Plate 1 Act B, Pum1, Rplpo, ZEB1, Twist1, Slug, Epcam 26.05.2023  Selected Filter: SYBR Green I / HRM Dye (465-510)
+Include	Color	Pos	Name	Cp	Concentration	Standard	Status
+True	255	A1	468 T2 Act B	22.34		0	
+True	255	A2	468 T2 Act B	22.58		0	
+True	255	A3	468 T3 Act B	21.19		0	
+True	255	A4	468 T3 Act B	21.24		0	
+True	255	A5	SKBR3 T2 Act B	21.79		0	
+True	255	A6	SKBR3 T2 Act B	21.77		0	
+True	255	A7	SKBR3 T3 Act B	24.38		0	
+True	255	A8	SKBR3 T3 Act B	24.60		0	
+True	255	A9	ZR75 T2 Act B	22.11		0	
+True	255	A10	ZR75 T2 Act B	21.92		0	
+True	255	A11	ZR75 T3 Act B	27.89		0	
+True	255	A12	ZR75 T3 Act B	27.66		0	
+True	255	B1	468 T2 PUM1	31.13		0	
+True	255	B2	468 T2 PUM1	31.02		0	
+True	255	B3	468 T3 PUM1	30.23		0	
+True	255	B4	468 T3 PUM1	30.28		0	
+True	255	B5	SKBR3 T2 PUM1	29.72		0	
+True	255	B6	SKBR3 T2 PUM1	29.97		0	
+True	255	B7	SKBR3 T3 PUM1	32.28		0	
+True	255	B8	SKBR3 T3 PUM1	32.17		0	
+True	255	B9	ZR75 T2 PUM1	29.48		0	
+True	255	B10	ZR75 T2 PUM1	29.51		0	
+True	255	B11	ZR75 T3 PUM1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	B12	ZR75 T3 PUM1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	C1	468 T2 RPLPO	27.26		0	
+True	255	C2	468 T2 RPLPO	27.11		0	
+True	255	C3	468 T3 RPLPO	25.77		0	
+True	255	C4	468 T3 RPLPO	25.65		0	
+True	255	C5	SKBR3 T2 RPLPO	25.89		0	
+True	255	C6	SKBR3 T2 RPLPO	25.91		0	
+True	255	C7	SKBR3 T3 RPLPO	28.16		0	
+True	255	C8	SKBR3 T3 RPLPO	28.28		0	
+True	255	C9	ZR75 T2 RPLPO	24.66		0	
+True	255	C10	ZR75 T2 RPLPO	24.69		0	
+True	255	C11	ZR75 T3 RPLPO	29.95		0	
+True	255	C12	ZR75 T3 RPLPO	30.06		0	
+True	255	D1	468 T2 ZEB1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	65280	D2	468 T2 ZEB1			0	
+True	65280	D3	468 T3 ZEB1			0	
+True	255	D4	468 T3 ZEB1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	65280	D5	SKBR3 T2 ZEB1			0	
+True	65280	D6	SKBR3 T2 ZEB1			0	
+True	65280	D7	SKBR3 T3 ZEB1			0	
+True	65280	D8	SKBR3 T3 ZEB1			0	
+True	255	D9	ZR75 T2  ZEB1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	D10	ZR75 T2  ZEB1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	65280	D11	ZR75 T3  ZEB1			0	
+True	65280	D12	ZR75 T3  ZEB1			0	
+True	255	E1	468 T2 TWIST1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	E2	468 T2 TWIST1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	E3	468 T3 TWIST1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	E4	468 T3 TWIST1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	65280	E5	SKBR3 T2 TWIST1			0	
+True	16711680	E6	SKBR3 T2 TWIST1	35.00		0	?, > - Detector Call uncertain, Late Cp call (last five cycles) has higher uncertainty
+True	65280	E7	SKBR3 T3 TWIST1			0	
+True	65280	E8	SKBR3 T3 TWIST1			0	
+True	16711680	E9	ZR75 T2 TWIST1	35.00		0	?, > - Detector Call uncertain, Late Cp call (last five cycles) has higher uncertainty
+True	16711680	E10	ZR75 T2 TWIST1	35.00		0	?, > - Detector Call uncertain, Late Cp call (last five cycles) has higher uncertainty
+True	16711680	E11	ZR75 T3 TWIST1	35.00		0	?, > - Detector Call uncertain, Late Cp call (last five cycles) has higher uncertainty
+True	16711680	E12	ZR75 T3 TWIST1	35.00		0	?, > - Detector Call uncertain, Late Cp call (last five cycles) has higher uncertainty
+True	65280	F1	468 T2 SLUG			0	
+True	65280	F2	468 T2 SLUG			0	
+True	65280	F3	468 T3 SLUG			0	
+True	16711680	F4	468 T3 SLUG	34.00		0	? - Detector Call uncertain
+True	65280	F5	SKBR3 T2 SLUG			0	
+True	65280	F6	SKBR3 T2 SLUG			0	
+True	65280	F7	SKBR3 T3 SLUG			0	
+True	65280	F8	SKBR3 T3 SLUG			0	
+True	65280	F9	ZR75 T2 SLUG			0	
+True	255	F10	ZR75 T2 SLUG	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	65280	F11	ZR75 T3 SLUG			0	
+True	65280	F12	ZR75 T3 SLUG			0	
+True	255	G1	468 T2 EPCAM	26.57		0	
+True	255	G2	468 T2 EPCAM	26.70		0	
+True	255	G3	468 T3 EPCAM	25.97		0	
+True	255	G4	468 T3 EPCAM	26.06		0	
+True	255	G5	SKBR3 T2 EPCAM	27.06		0	
+True	255	G6	SKBR3 T2 EPCAM	27.03		0	
+True	255	G7	SKBR3 T3 EPCAM	30.12		0	
+True	255	G8	SKBR3 T3 EPCAM	30.00		0	
+True	255	G9	ZR75 T2 EPCAM	25.64		0	
+True	255	G10	ZR75 T2 EPCAM	25.57		0	
+True	255	G11	ZR75 T3 EPCAM	32.14		0	
+True	255	G12	ZR75 T3 EPCAM	32.97		0	
+True	65280	H1	Act B NTC			0	
+True	65280	H2	Act B NTC			0	
+True	65280	H3	NTC PUM1			0	
+True	65280	H4	NTC PUM1			0	
+True	65280	H5	NTC RPLPO			0	
+True	65280	H6	NTC RPLPO			0	
+True	65280	H7	NTC ZEB1			0	
+True	65280	H8	NTC ZEB1			0	
+True	65280	H9	NTC TWIST1			0	
+True	65280	H10	NTC SLUG			0	
+True	65280	H11	NTC EPCAM			0	
+True	65280	H12	NTC EPCAM			0	

@@ -1,0 +1,98 @@
+Experiment: Plate 4, T2 and T3, EPCAM, ESR1 24.05.2023  Selected Filter: SYBR Green I / HRM Dye (465-510)
+Include	Color	Pos	Name	Cp	Concentration	Standard	Status
+True	255	A1	MCF7 T2 EPCAM	23.51		0	
+True	255	A2	MCF7 T2 EPCAM	23.42		0	
+True	255	A3	MCF7 T3 EPCAM	27.52		0	
+True	255	A4	MCF7 T3 EPCAM	27.65		0	
+True	255	A5	BT474 T2 EPCAM	22.32		0	
+True	255	A6	BT474 T2 EPCAM	22.30		0	
+True	255	A7	BT474 T3 EPCAM	22.28		0	
+True	255	A8	BT474 T3 EPCAM	22.30		0	
+True	255	A9	453 T1 EPCAM	23.66		0	
+True	255	A10	453 T1 EPCAM	23.68		0	
+True	255	A11	453 T2 EPCAM	23.48		0	
+True	255	A12	453 T2 EPCAM	26.80		0	
+True	255	B1	453 T3 EPCAM	23.16		0	
+True	255	B2	453 T3 EPCAM	23.14		0	
+True	255	B3	HCC T2 EPCAM	27.16		0	
+True	255	B4	HCC T2 EPCAM	26.99		0	
+True	255	B5	HCC T3 EPCAM	23.78		0	
+True	255	B6	HCC T3 EPCAM	23.73		0	
+True	255	B7	231 T2 EPCAM	28.96		0	
+True	255	B8	231 T2 EPCAM	29.20		0	
+True	255	B9	231 T3 EPCAM	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	B10	231 T3 EPCAM	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	65280	B11	EPCAM NTC			0	
+True	65280	B12	EPCAM NTC			0	
+True	255	C1	MCF7 T2 ESR1	28.82		0	
+True	255	C2	MCF7 T2 ESR1	28.64		0	
+True	255	C3	MCF7 T3 ESR1	32.36		0	
+True	255	C4	MCF7 T3 ESR1	31.82		0	
+True	65280	C5	BT474 T2 ESR1			0	
+True	65280	C6	BT474 T2 ESR1			0	
+True	65280	C7	BT474 T3 ESR1			0	
+True	65280	C8	BT474 T3 ESR1			0	
+True	65280	C9	453 T1 ESR1			0	
+True	65280	C10	453 T1 ESR1			0	
+True	255	C11	453 T2 ESR1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	65280	C12	453 T2 ESR1			0	
+True	65280	D1	453 T3 ESR1			0	
+True	255	D2	453 T3 ESR1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	D3	HCC T2 ESR1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	D4	HCC T2 ESR1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	D5	HCC T3 ESR1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	D6	HCC T3 ESR1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	65280	D7	231 T2 ESR1			0	
+True	65280	D8	231 T2 ESR1			0	
+True	65280	D9	231 T3 ESR1			0	
+True	65280	D10	231 T3 ESR1			0	
+True	65280	D11	ESR1 NTC			0	
+True	65280	D12	ESR1 NTC			0	
+True	65280	E1	Sample			0	
+True	65280	E2	Sample			0	
+True	65280	E3	Sample			0	
+True	65280	E4	Sample			0	
+True	65280	E5	Sample			0	
+True	65280	E6	Sample			0	
+True	65280	E7	Sample			0	
+True	65280	E8	Sample			0	
+True	65280	E9	Sample			0	
+True	65280	E10	Sample			0	
+True	65280	E11	Sample			0	
+True	65280	E12	Sample			0	
+True	65280	F1	Sample			0	
+True	65280	F2	Sample			0	
+True	65280	F3	Sample			0	
+True	65280	F4	Sample			0	
+True	65280	F5	Sample			0	
+True	65280	F6	Sample			0	
+True	65280	F7	Sample			0	
+True	65280	F8	Sample			0	
+True	65280	F9	Sample			0	
+True	65280	F10	Sample			0	
+True	65280	F11	Sample			0	
+True	65280	F12	Sample			0	
+True	65280	G1	Sample			0	
+True	65280	G2	Sample			0	
+True	65280	G3	Sample			0	
+True	65280	G4	Sample			0	
+True	65280	G5	Sample			0	
+True	65280	G6	Sample			0	
+True	65280	G7	Sample			0	
+True	65280	G8	Sample			0	
+True	65280	G9	Sample			0	
+True	65280	G10	Sample			0	
+True	65280	G11	Sample			0	
+True	65280	G12	Sample			0	
+True	65280	H1	Sample			0	
+True	65280	H2	Sample			0	
+True	65280	H3	Sample			0	
+True	65280	H4	Sample			0	
+True	65280	H5	Sample			0	
+True	65280	H6	Sample			0	
+True	65280	H7	Sample			0	
+True	65280	H8	Sample			0	
+True	65280	H9	Sample			0	
+True	65280	H10	Sample			0	
+True	65280	H11	Sample			0	
+True	65280	H12	Sample			0	

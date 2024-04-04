@@ -1,0 +1,98 @@
+Experiment: Plate 2 Twist 1, Slug, Vim, KRT 14 23-05-23  Selected Filter: SYBR Green I / HRM Dye (465-510)
+Include	Color	Pos	Name	Cp	Concentration	Standard	Status
+True	255	A1	MCF7 T2 TWIST1	33.86		0	
+True	255	A2	MCF7 T2 TWIST1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	A3	MCF7 T3 TWIST1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	A4	MCF7 T3 TWIST1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	A5	BT474 T2 TWIST1	30.14		0	
+True	255	A6	BT474 T2 TWIST1	30.75		0	
+True	255	A7	BT474 T3 TWIST1	30.71		0	
+True	255	A8	BT474 T3 TWIST1	29.65		0	
+True	255	A9	453 T1 TWIST1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	A10	453 T1 TWIST1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	A11	453 T2 TWIST1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	16711680	A12	453 T2 TWIST1	35.00		0	?, > - Detector Call uncertain, Late Cp call (last five cycles) has higher uncertainty
+True	255	B1	453 T3 TWIST1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	16711680	B2	453 T3 TWIST1	35.00		0	?, > - Detector Call uncertain, Late Cp call (last five cycles) has higher uncertainty
+True	255	B3	HCC T2 TWIST1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	B4	HCC T2 TWIST1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	B5	HCC T3 TWIST1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	B6	HCC T3 TWIST1	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	B7	231 T2 TWIST1	28.73		0	
+True	255	B8	231 T2 TWIST1	28.78		0	
+True	255	B9	231 T3 TWIST1	33.12		0	
+True	255	B10	231 T3 TWIST1	32.83		0	
+True	65280	B11	TWIST1 NTC			0	
+True	65280	B12	TWIST1 NTC			0	
+True	255	C1	MCF7 T2 SLUG	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	C2	MCF7 T2 SLUG	32.60		0	
+True	16711680	C3	MCF7 T3 SLUG	12.00		0	? - Detector Call uncertain
+True	65280	C4	MCF7 T3 SLUG			0	
+True	255	C5	BT474 T2 SLUG	27.45		0	
+True	255	C6	BT474 T2 SLUG	27.57		0	
+True	255	C7	BT474 T3 SLUG	27.49		0	
+True	255	C8	BT474 T3 SLUG	27.48		0	
+True	255	C9	453 T1 SLUG	34.20		0	
+True	255	C10	453 T1 SLUG	32.58		0	
+True	255	C11	453 T2 SLUG	32.72		0	
+True	255	C12	453 T2 SLUG	33.71		0	
+True	255	D1	453 T3 SLUG	34.18		0	
+True	255	D2	453 T3 SLUG	34.37		0	
+True	255	D3	HCC T2 SLUG	29.69		0	
+True	255	D4	HCC T2 SLUG	29.97		0	
+True	255	D5	HCC T3 SLUG	26.75		0	
+True	255	D6	HCC T3 SLUG	26.72		0	
+True	255	D7	231 T2 SLUG	27.28		0	
+True	255	D8	231 T2 SLUG	27.26		0	
+True	255	D9	231 T3 SLUG	31.47		0	
+True	255	D10	231 T3 SLUG	31.47		0	
+True	65280	D11	SLUG NTC			0	
+True	65280	D12	SLUG NTC			0	
+True	255	E1	MCF7 T2 VIM	34.53		0	
+True	255	E2	MCF7 T2 VIM	31.08		0	
+True	255	E3	MCF7 T3 VIM	31.83		0	
+True	16711680	E4	MCF7 T3 VIM	35.00		0	?, > - Detector Call uncertain, Late Cp call (last five cycles) has higher uncertainty
+True	255	E5	BT474 T2 VIM	23.65		0	
+True	255	E6	BT474 T2 VIM	23.66		0	
+True	255	E7	BT474 T3 VIM	23.53		0	
+True	255	E8	BT474 T3 VIM	23.56		0	
+True	255	E9	453 T1 VIM	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	E10	453 T1 VIM	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	16711680	E11	453 T2 VIM	35.00		0	?, > - Detector Call uncertain, Late Cp call (last five cycles) has higher uncertainty
+True	16711680	E12	453 T2 VIM	35.00		0	?, > - Detector Call uncertain, Late Cp call (last five cycles) has higher uncertainty
+True	255	F1	453 T3 VIM	32.96		0	
+True	255	F2	453 T3 VIM	34.55		0	
+True	255	F3	HCC T2 VIM	31.59		0	
+True	255	F4	HCC T2 VIM	31.77		0	
+True	255	F5	HCC T3 VIM	27.14		0	
+True	255	F6	HCC T3 VIM	27.11		0	
+True	255	F7	231 T2 VIM	21.81		0	
+True	255	F8	231 T2 VIM	21.78		0	
+True	255	F9	231 T3 VIM	25.04		0	
+True	255	F10	231 T3 VIM	24.97		0	
+True	65280	F11	VIM NTC			0	
+True	65280	F12	VIM NTC			0	
+True	255	G1	MCF7 T2 KRT14	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	G2	MCF7 T2 KRT14	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	G3	MCF7 T3 KRT14	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	G4	MCF7 T3 KRT14	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	G5	BT474 T2 KRT14	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	65280	G6	BT474 T2 KRT14			0	
+True	255	G7	BT474 T3 KRT14	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	65280	G8	BT474 T3 KRT14			0	
+True	255	G9	453 T1 KRT14	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	65280	G10	453 T1 KRT14			0	
+True	65280	G11	453 T2 KRT14			0	
+True	65280	G12	453 T2 KRT14			0	
+True	65280	H1	453 T3 KRT14			0	
+True	255	H2	453 T3 KRT14	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	H3	HCC T2 KRT14	33.86		0	
+True	255	H4	HCC T2 KRT14	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	H5	HCC T3 KRT14	28.64		0	
+True	255	H6	HCC T3 KRT14	28.61		0	
+True	255	H7	231 T2 KRT14	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	H8	231 T2 KRT14	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	H9	231 T3 KRT14	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	H10	231 T3 KRT14	33.94		0	
+True	255	H11	KRT14 NTC	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	H12	KRT14 NTC	  5.00		0	< - Early Cp call (first five cycles) has higher uncertainty

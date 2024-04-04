@@ -1,0 +1,98 @@
+Experiment: ESR1, VIM, SLUG, KRT14 plate 3 21 april 2023  Selected Filter: SYBR Green I / HRM Dye (465-510)
+Include	Color	Pos	Name	Cp	Concentration	Standard	Status
+True	255	A1	ESR1 468	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	A2	ESR1 468	34.25		0	
+True	255	A3	ESR1 HCC	33.03		0	
+True	255	A4	ESR1 HCC	32.75		0	
+True	255	A5	ESR1 231	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	A6	ESR1 231	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	A7	ESR1 453	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	A8	ESR1 453	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	A9	ESR1 SKBR3	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	A10	ESR1 SKBR3	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	A11	ESR1 MCF7	26.73		0	
+True	255	A12	ESR1 MCF7	26.81		0	
+True	255	B1	ESR1 BT474	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	B2	ESR1 BT474	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	B3	ESR1 ZR75	27.83		0	
+True	255	B4	ESR1 ZR75	27.92		0	
+True	65280	B5	ESR1 NTC			0	
+True	65280	B6	ESR1 NTC			0	
+True	65280	B7	Sample 19			0	
+True	65280	B8	Sample 20			0	
+True	65280	B9	Sample 21			0	
+True	65280	B10	Sample 22			0	
+True	65280	B11	Sample 23			0	
+True	65280	B12	Sample 24			0	
+True	255	C1	VIM 468	27.21		0	
+True	255	C2	VIM 468	27.21		0	
+True	255	C3	VIM HCC	30.54		0	
+True	255	C4	VIM HCC	30.50		0	
+True	255	C5	VIM 231	21.12		0	
+True	255	C6	VIM 231	21.14		0	
+True	255	C7	VIM 453	32.69		0	
+True	255	C8	VIM 453	32.92		0	
+True	255	C9	VIM SKBR3	34.31		0	
+True	255	C10	VIM SKBR3	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	C11	VIM MCF7	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	C12	VIM MCF7	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	D1	VIM BT474	23.94		0	
+True	255	D2	VIM BT474	23.95		0	
+True	255	D3	VIM ZR75	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	255	D4	VIM ZR75	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	65280	D5	VIM NTC			0	
+True	65280	D6	VIM NTC			0	
+True	65280	D7	Sample 43			0	
+True	65280	D8	Sample 44			0	
+True	65280	D9	Sample 45			0	
+True	65280	D10	Sample 46			0	
+True	65280	D11	Sample 47			0	
+True	65280	D12	Sample 48			0	
+True	255	E1	SLUG 468	31.52		0	
+True	255	E2	SLUG 468	31.42		0	
+True	255	E3	SLUG HCC	27.71		0	
+True	255	E4	SLUG HCC	27.71		0	
+True	255	E5	SLUG 231	25.81		0	
+True	255	E6	SLUG 231	25.80		0	
+True	255	E7	SLUG 453	30.41		0	
+True	255	E8	SLUG 453	31.06		0	
+True	255	E9	SLUG SKBR3	30.80		0	
+True	255	E10	SLUG SKBR3	30.94		0	
+True	255	E11	SLUG MCF7	30.88		0	
+True	255	E12	SLUG MCF7	30.67		0	
+True	255	F1	SLUG BT474	27.65		0	
+True	255	F2	SLUG BT474	27.71		0	
+True	255	F3	SLUG ZR75	31.06		0	
+True	255	F4	SLUG ZR75	30.86		0	
+True	65280	F5	SLUG NTC			0	
+True	65280	F6	SLUG NTC			0	
+True	16711680	F7	Sample 67	16.00		0	? - Detector Call uncertain
+True	65280	F8	Sample 68			0	
+True	65280	F9	Sample 69			0	
+True	65280	F10	Sample 70			0	
+True	65280	F11	Sample 71			0	
+True	65280	F12	Sample 72			0	
+True	255	G1	KRT14 468	27.23		0	
+True	255	G2	KRT14 468	27.22		0	
+True	255	G3	KRT14 HCC	27.60		0	
+True	255	G4	KRT14 HCC	27.78		0	
+True	255	G5	KRT14 231	28.91		0	
+True	255	G6	KRT14 231	29.03		0	
+True	255	G7	KRT14 453	28.92		0	
+True	255	G8	KRT14 453	28.99		0	
+True	255	G9	KRT14 SKBR3	28.86		0	
+True	255	G10	KRT14 SKBR3	28.92		0	
+True	255	G11	KRT14 MCF7	29.02		0	
+True	255	G12	KRT14 MCF7	29.12		0	
+True	255	H1	KRT14 BT474	28.94		0	
+True	255	H2	KRT14 BT474	29.09		0	
+True	255	H3	KRT14 ZR75	29.00		0	
+True	255	H4	KRT14 ZR75	28.96		0	
+True	255	H5	KRT14 NTC	35.00		0	> - Late Cp call (last five cycles) has higher uncertainty
+True	16711680	H6	KRT14 NTC	35.00		0	?, > - Detector Call uncertain, Late Cp call (last five cycles) has higher uncertainty
+True	65280	H7	Sample 91			0	
+True	65280	H8	Sample 92			0	
+True	65280	H9	Sample 93			0	
+True	65280	H10	Sample 94			0	
+True	65280	H11	Sample 95			0	
+True	65280	H12	Sample 96			0	
